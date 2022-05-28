@@ -1,2 +1,2 @@
 # GitBash
-Home work
+Homework
